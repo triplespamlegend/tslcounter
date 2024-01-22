@@ -1,5 +1,5 @@
 export default {
 <p>
-                        i hate 703 tsl completions
+                        i have 703 tsl completions
                     </p>
 };
