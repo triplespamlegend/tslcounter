@@ -1,2 +1,2 @@
 # tslcounter
-lmao funny
+https://triplespamlegend.com/
