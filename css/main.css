@@ -1,3 +1,7 @@
+.test {
+  background-color: linear-gradient(red, orange);
+}
+
 a {
   color: #ff0000;
 }
