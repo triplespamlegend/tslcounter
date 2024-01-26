@@ -1,7 +1,6 @@
 .btn {
   color: #ff0000;
   text-decoration: none;
-  font-family: Helvetica, Sans-serif;
   border: solid;
 }
 
@@ -18,6 +17,10 @@ h2 {
 h3 {
   font-family: Helvetica, Sans-serif;
   line-height: 26pt;
+}
+
+a {
+  font-family: Helvetica, Sans-serif;
 }
 
 body {
