@@ -13,10 +13,6 @@ h3 {
   line-height: 26pt;
 }
 
-a {
-  font-family: Helvetica, Sans-serif;
-}
-
 body {
   background-color: rgb(64,130,109);
   background-color: linear-gradient(90deg, rgba(64,130,109,1) 0%, rgba(130,212,186,1) 100%);
