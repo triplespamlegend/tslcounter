@@ -16,11 +16,10 @@ h2 {
 }
 
 h3 {
-   font-family: Helvetica, Sans-serif;
+  font-family: Helvetica, Sans-serif;
   line-height: 26pt;
 }
 
-h4 {
-  font-family: Helvetica, Sans-serif;
-  line-height: 26pt;
+body {
+  background-color: linear-gradient(90deg, rgba(64,130,109,1) 0%, rgba(130,212,186,1) 100%);
 }
