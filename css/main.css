@@ -1,23 +1,27 @@
 .btn {
   color: #ff0000;
+  text-decoration: none;
+  padding: 0.5rem;
+  border: 1px solid #333333;
+  font-family: Helvetica, Sans-serif;
 }
 
 h1 {
-    font-family: Helvetica, Sans-serif;
-    line-height: 26pt;
+  font-family: Helvetica, Sans-serif;
+  line-height: 26pt;
 }
 
 h2 {
-    font-family: Helvetica, Sans-serif;
-    line-height: 26pt;
+  font-family: Helvetica, Sans-serif;
+  line-height: 26pt;
 }
 
 h3 {
-    font-family: Helvetica, Sans-serif;
-    line-height: 26pt;
+   font-family: Helvetica, Sans-serif;
+  line-height: 26pt;
 }
 
 h4 {
-    font-family: Helvetica, Sans-serif;
-    line-height: 26pt;
+  font-family: Helvetica, Sans-serif;
+  line-height: 26pt;
 }
