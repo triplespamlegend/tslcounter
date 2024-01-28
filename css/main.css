@@ -21,3 +21,7 @@ body {
 div {
   background-color: white;
 }
+
+.btn {
+  text-decoration: none;
+}
