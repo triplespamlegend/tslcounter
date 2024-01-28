@@ -23,7 +23,7 @@ body {
 
 div {
   background: rgb(46,46,46);
-  background: linear-gradient(90deg, rgba(46,46,46,0.5) 0%, rgba(60,60,60,0.5) 100%);
+  background: linear-gradient(90deg, rgba(46,46,46,0.75) 0%, rgba(60,60,60,0.75) 100%);
   width: 900px;
   border-radius: 15px;
 }
