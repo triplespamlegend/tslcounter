@@ -30,4 +30,7 @@ div {
 
 .btn {
   text-decoration: none;
+  font-family: Helvetica, Sans-serif;
+  line-height: 26pt;
+  color: white;
 }
