@@ -20,8 +20,8 @@ body {
 
 div {
   background-color: white;
-  width: fit-content;
-  border-radius: 30px;
+  width: fit-contents;
+  border-radius: 15px;
 }
 
 .btn {
