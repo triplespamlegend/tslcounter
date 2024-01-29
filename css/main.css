@@ -37,3 +37,8 @@ body {
 .flex {
   display: flex;
 }
+
+.low-bright {
+  font-family: Helvetica, Sans-serif;
+  line-height: 26pt;
+  color: #f5f5f5;
