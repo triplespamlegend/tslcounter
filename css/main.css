@@ -21,7 +21,7 @@ body {
   background: linear-gradient(90deg, rgba(64,130,109,1) 0%, rgba(130,212,186,1) 100%);
 }
 
-div {
+.counts {
   background: rgba(46,46,46,0.6);
   width: 900px;
   border-radius: 15px;
@@ -32,4 +32,8 @@ div {
   font-family: Helvetica, Sans-serif;
   line-height: 26pt;
   color: white;
+}
+
+.flex {
+  display: flex;
 }
