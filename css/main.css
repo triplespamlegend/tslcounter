@@ -23,7 +23,8 @@ body {
 
 .counts {
   background: rgba(46,46,46,0.6);
-  width: 900px;
+  width: 100vh;
+  height: 30vh;
   border-radius: 15px;
 }
 
@@ -42,11 +43,15 @@ body {
 .low-bright {
   font-family: Helvetica, Sans-serif;
   line-height: 4pt;
+  width: 100vh;
+  height: 30vh;
   color: #f5f5f5;
 }
 
 .hardest {
   font-family: Helvetica, Sans-serif;
+  width: 100vh;
+  height: 30vh;
   line-height: 4pt;
   color: white;
 }
