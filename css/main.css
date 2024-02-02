@@ -26,6 +26,7 @@ body {
   width: 100vh;
   height: 30vh;
   border-radius: 15px;
+  page-break-after: always;
 }
 
 .btn {
@@ -45,6 +46,7 @@ body {
   line-height: 4pt;
   width: 100vh;
   height: 30vh;
+  page-break-after: always;
   color: #f5f5f5;
 }
 
@@ -59,4 +61,5 @@ body {
     width: 100vh;
   height: 30vh;
   border-radius: 15px;
+  page-break-after: always;
 }
